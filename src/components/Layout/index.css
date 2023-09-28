@@ -1,0 +1,28 @@
+.header_clz {
+	min-height: 50px;
+}
+.footer__clz {
+	min-height: 50px;
+}
+
+.body__clz {
+	width: 100%;
+
+	display: block;
+
+	min-height: 100vh;
+	margin: 0;
+   
+}
+.home__clz {
+	flex: 1;
+	padding-right: 250px;
+     padding-left: 310px;
+      padding-top:150px;
+	  margin-left: 200px;
+}
+
+.main_layout {
+	display: flex;
+	justify-content: flex-start;
+}

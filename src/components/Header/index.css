@@ -1,0 +1,28 @@
+
+
+.header-container__clz {
+    padding-right: 59px;
+    padding-left: 67px;
+    padding-left: 67px;
+   
+}
+.text-header-container__clz {
+    padding: 25px;
+    color: rgb(79, 79, 135);
+    font-family: 'Recursive', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: right;
+}
+
+.text-header-container__clz a{
+   
+    line-height: 90px;
+    border-bottom: 1px solid transparent;
+  
+
+}
+
+.text-header-container__clz  a:hover{
+    border-bottom-color: rgb(79, 79, 135);
+}

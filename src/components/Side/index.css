@@ -1,0 +1,27 @@
+.side {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 300px;
+}
+
+.side-container__clz  {
+    display: block;
+    width: 300px;
+    height: 100%;
+    font-size: 20px;
+    color: white;
+    padding-left: 30px;
+
+    background: #4f6770;
+    transition: all 200ms ease 0;
+}
+.side-container__clz li a{
+    line-height: 90px;
+    border-bottom: 1px solid transparent;
+
+}
+.side-container__clz li a:hover {
+    border-bottom-color: white;
+}
